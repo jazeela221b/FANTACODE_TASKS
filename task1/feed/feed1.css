@@ -6,7 +6,7 @@ body {
         padding:2px;
         margin: 110px 100px 100px 100px;
        text-align: center;
-       box-shadow:3px 3px 5px 6px #ccc;
+       box-shadow:2px 1px 5px 2px #ccc;
        background-color:rgba(235, 226, 226, 0.925);
   }
   .border img{
@@ -22,7 +22,7 @@ body {
         margin:20px;
         padding: 25px 50px 25px 50px;
         border-style: riddge;
-        box-shadow:3px 3px 5px 6px #ccc; 
+        box-shadow:2px 1px 5px 2px #ccc; 
   }
   #back{
     float: left;
