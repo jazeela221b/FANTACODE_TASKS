@@ -1,0 +1,30 @@
+    body {
+      font-family: Arial,sans-serif, Helvetica;
+    }
+    #head{ margin: 60px;}
+    .border{
+        max-width:100%;;
+        padding:2px;
+        margin: 80px;
+    box-shadow:3px 3px 5px 6px #ccc;
+    }
+    
+
+    ul{list-style-type:none;}
+    .pets img{
+    vertical-align: middle;
+    width: 125px;
+    height: 125px;
+    border-radius: 50%;
+    margin:20px;
+    }
+    .pets{
+    background-color:whitesmoke;
+    color: black;
+    margin:20px;
+    padding: 25px 50px 25px 50px;
+    border-style: riddge;
+    box-shadow:3px 3px 5px 6px #ccc; 
+  }
+  a{color:black;
+    text-decoration: none;}
